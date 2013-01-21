@@ -11,4 +11,4 @@ http://www.chromium.org/ . Unlike [mini_chromium][1], mini\_chromium\_win is for
 
 ## Non-Goal
 
-[1]: https://github.com/mark-chromium/mini\chromium
+[1]: https://github.com/mark-chromium/mini_chromium
