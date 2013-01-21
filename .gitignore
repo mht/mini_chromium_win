@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio temporary files
+*.aps
+*.res
+*.user
+*.ncb
+*.suo
+*.user
+*.sdf
+*.opensdf
